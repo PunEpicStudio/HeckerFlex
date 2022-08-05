@@ -2,10 +2,10 @@
 
 use Hyper\Hyper;
 
-$host = "sql6.freemysqlhosting.net";
-$username = "sql6509604";
-$password = "E9IdvRQdvc";
-$database = "sql6509604";
+$host = "127.0.0.1";
+$username = "root";
+$password = "";
+$database = "hyper";
 $con_status = "inactive";
 
 $connect = new mysqli($host, $username, $password, $database);

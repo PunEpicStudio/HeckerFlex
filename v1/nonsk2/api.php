@@ -28,7 +28,7 @@ function multiexplode($seperator, $string){
     return $two;
     };
 
-$sk = 'sk_test_2uzJdYJb9X0zlUd643eat5Hx00QLYpfETF';
+$sk = 'sk_live_69x';
 $lista = $_GET['lista'];
     $cc = multiexplode(array(":", "|", ""), $lista)[0];
     $mes = multiexplode(array(":", "|", ""), $lista)[1];

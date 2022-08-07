@@ -2,9 +2,9 @@
 
 use Hyper\Hyper;
 
-$host = "127.0.0.1";
-$username = "root";
-$password = "";
+$host = "hyper.mysql.database.azure.com";
+$username = "pun";
+$password = "kk1246935W@WTF";
 $database = "hyper";
 $con_status = "inactive";
 
